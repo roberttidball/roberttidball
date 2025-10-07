@@ -1,1 +1,1 @@
-📰 [SuburbStory]([https://suburbstory.com/](https://suburbstory.com/?utm_source=github&utm_medium=profile&utm_campaign=suburb_story_link)) - An AI-powered platform generating hyper-local news articles for every suburb in Australia using generative AI.
+📰 [SuburbStory](https://suburbstory.com/?utm_source=github&utm_medium=profile&utm_campaign=suburb_story_link) - An AI-powered platform generating hyper-local news articles for every suburb in Australia using generative AI.
