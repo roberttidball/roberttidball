@@ -13,13 +13,13 @@
       <p>Access key economic data for all major currency pairs, directly sourced from central bank announcements.</p>
       <p>
         <a href="https://fxmacrodata.com/?utm_source=github&utm_medium=profile&utm_campaign=readme">
-          <img src="https://img.shields.io/badge/🌐Website-0066CC?style=flat-square">
+          <img src="https://img.shields.io/badge/🌐_Website-0066CC?style=flat-square">
         </a>
         <a href="https://fxmacrodata.com/api/docs?utm_source=github&utm_medium=profile&utm_campaign=readme">
-          <img src="https://img.shields.io/badge/📚API-Documentation-0066CC?style=flat-square">
+          <img src="https://img.shields.io/badge/📚_API-Documentation-0066CC?style=flat-square">
         </a>
         <a href="https://github.com/fxmacrodata/fxmacrodata">
-          <img src="https://img.shields.io/badge/🐍Python_SDK-181717?style=flat-square">
+          <img src="https://img.shields.io/badge/🐍_Python_SDK-181717?style=flat-square">
         </a>
       </p>
     </td>
