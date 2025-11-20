@@ -1,7 +1,5 @@
 <div align="center">
 
-### 💱 FXMacroData
-
 <table>
   <tr>
     <td width="160">
@@ -27,8 +25,6 @@
     </td>
   </tr>
 </table>
-
-### 📰 SuburbStory
 
 <table>
   <tr>
