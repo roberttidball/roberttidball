@@ -1,7 +1,5 @@
 <div align="center">
 
-![FXMacroData Banner](https://github.com/roberttidball/roberttidball/raw/main/assets/fxmacrodata-banner-ad.png)
-
 # 👋 Welcome to My GitHub
 
 ### Building the future of financial data and AI-powered content
@@ -18,9 +16,11 @@
 
 ### 💱 FXMacroData
 
-<div align="center">
-  
-[![FXMacroData Logo](https://github.com/roberttidball/roberttidball/raw/main/assets/fxmacrodata-logo.png)](https://fxmacrodata.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+<div align="left">
+
+<a href="https://fxmacrodata.com/?utm_source=github&utm_medium=profile&utm_campaign=readme">
+  <img src="https://github.com/roberttidball/roberttidball/raw/main/assets/fxmacrodata-logo.png" width="150" style="vertical-align:middle;">
+</a>
 
 **Real-time Forex Macroeconomic API**
 
@@ -45,15 +45,15 @@ Get instant access to critical economic data for all major currency pairs, sourc
 
 ### 📰 SuburbStory
 
-<div align="center">
+<div align="left">
 
-[![SuburbStory Banner](https://github.com/roberttidball/roberttidball/raw/main/assets/suburbstory-banner-ad.png)](https://suburbstory.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+<a href="https://suburbstory.com/?utm_source=github&utm_medium=profile&utm_campaign=readme">
+  <img src="https://github.com/roberttidball/roberttidball/raw/main/assets/suburbstory-logo.png" width="150" style="vertical-align:middle;">
+</a>
 
 **AI-Powered Hyper-Local News Platform**
 
 Generating unique, engaging news articles for every suburb across Australia using cutting-edge generative AI technology.
-
-[![SuburbStory Logo](https://github.com/roberttidball/roberttidball/raw/main/assets/suburbstory-logo.png)](https://suburbstory.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
 [![Visit SuburbStory](https://img.shields.io/badge/🏘️-Visit_SuburbStory-00A86B?style=flat-square&logo=googlenews)](https://suburbstory.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 [![Read Articles](https://img.shields.io/badge/📖-Read_Articles-00A86B?style=flat-square)](https://suburbstory.com/articles)
