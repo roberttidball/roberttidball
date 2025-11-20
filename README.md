@@ -1,13 +1,13 @@
 <div align="center">
 
-<table>
+<table style="width:600px; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td width="160">
+    <td style="width:160px; text-align:center; vertical-align:top;">
       <a href="https://fxmacrodata.com/?utm_source=github&utm_medium=profile&utm_campaign=readme">
         <img src="https://github.com/roberttidball/roberttidball/raw/main/assets/fxmacrodata-logo.png" width="150">
       </a>
     </td>
-    <td>
+    <td style="width:440px; vertical-align:top;">
       <h3>FXMacroData</h3>
       <p><strong>Real-time Forex Macroeconomic API</strong></p>
       <p>Access key economic data for all major currency pairs, directly sourced from central bank announcements.</p>
@@ -24,16 +24,13 @@
       </p>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td width="160">
+    <td style="width:160px; text-align:center; vertical-align:top; padding-top:20px;">
       <a href="https://suburbstory.com/?utm_source=github&utm_medium=profile&utm_campaign=readme">
         <img src="https://github.com/roberttidball/roberttidball/raw/main/assets/suburbstory-logo.png" width="150">
       </a>
     </td>
-    <td>
+    <td style="width:440px; vertical-align:top; padding-top:20px;">
       <h3>SuburbStory</h3>
       <p><strong>AI-Powered Hyper-Local News Platform</strong></p>
       <p>Generating engaging news articles for every suburb across Australia using AI-driven content.</p>
@@ -45,3 +42,5 @@
     </td>
   </tr>
 </table>
+
+</div>
