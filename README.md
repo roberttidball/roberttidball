@@ -1,6 +1,6 @@
 <div align="center">
 
-![FXMacroData Banner](https://raw.githubusercontent.com/fxmacrodata/fxmacrodata/main/assets/banner.png)
+![FXMacroData Banner](https://github.com/roberttidball/roberttidball/raw/main/assets/fxmacrodata-banner-ad.png)
 
 # 👋 Welcome to My GitHub
 
@@ -20,7 +20,7 @@
 
 <div align="center">
   
-[![FXMacroData Logo](https://github.com/fxmacrodata/fxmacrodata/blob/main/assets/logo.png?raw=true)](https://fxmacrodata.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+[![FXMacroData Logo](https://github.com/roberttidball/roberttidball/raw/main/assets/fxmacrodata-logo.png)](https://fxmacrodata.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
 **Real-time Forex Macroeconomic API**
 
@@ -47,9 +47,13 @@ Get instant access to critical economic data for all major currency pairs, sourc
 
 <div align="center">
 
+[![SuburbStory Banner](https://github.com/roberttidball/roberttidball/raw/main/assets/suburbstory-banner-ad.png)](https://suburbstory.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+
 **AI-Powered Hyper-Local News Platform**
 
 Generating unique, engaging news articles for every suburb across Australia using cutting-edge generative AI technology.
+
+[![SuburbStory Logo](https://github.com/roberttidball/roberttidball/raw/main/assets/suburbstory-logo.png)](https://suburbstory.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
 [![Visit SuburbStory](https://img.shields.io/badge/🏘️-Visit_SuburbStory-00A86B?style=flat-square&logo=googlenews)](https://suburbstory.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 [![Read Articles](https://img.shields.io/badge/📖-Read_Articles-00A86B?style=flat-square)](https://suburbstory.com/articles)
