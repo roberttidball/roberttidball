@@ -1,77 +1,56 @@
 <p align="center">
   <a href="https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme">
-    <img src="https://fxmacrodata.com/static/images/brand/logo-square.png" width="180" alt="FXMacroData logo">
+    <img src="https://fxmacrodata.com/static/images/brand/logo-square.png" width="160" alt="FXMacroData">
   </a>
 </p>
 
 # Robert Tidball
 
-**Founder of FXMacroData · Quant developer · Former data platform lead at Macquarie Bank**
+**Founder, FXMacroData · Economic data infrastructure for FX research**
 
-Building economic data infrastructure for FX research, systematic trading and AI applications. The work spans data APIs, open-source integrations and practical research tools.
+Building FXMacroData across data engineering, APIs, developer tools and quantitative research. The focus: make official economic data easier to use, trace and analyse in the workflows where investment research happens.
 
-[LinkedIn](https://www.linkedin.com/in/roberttidball/) · [About FXMacroData](https://fxmacrodata.com/about?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) · [FXMacroData on GitHub](https://github.com/fxmacrodata)
+[LinkedIn](https://www.linkedin.com/in/roberttidball/) · [FXMacroData on GitHub](https://github.com/fxmacrodata) · [Contact](mailto:info@fxmacrodata.com)
 
 ## FXMacroData
 
-Official macroeconomic releases, historical data and FX market context for traders, researchers and developers. Bring economic data into notebooks, backtests, dashboards and AI workflows without building a separate connector for every publisher.
+**Economic releases, history and market context—ready for your research stack.**
 
-- **Official releases:** policy rates, inflation, GDP, employment and central-bank announcements from central banks and national statistics offices.
-- **Historical research:** macro observations, source context and release timing for event studies and backtests.
-- **Market context:** FX rates, government bond yields, commodities and COT positioning.
-- **Connected workflows:** REST API, Python SDK, MCP tools, release calendars, dashboards and webhooks.
+Connect macroeconomic fundamentals to currency research without maintaining a separate connector for every central bank and statistics office. FXMacroData brings official-source observations and release calendars into a consistent API, with source, unit and timing metadata to support informed analysis.
 
-[Explore FXMacroData](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) · [API documentation](https://fxmacrodata.com/documentation/reference?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) · [Data coverage](https://fxmacrodata.com/data-coverage?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) · [Get an API key](https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme)
+- **Build currency models.** Work with inflation, interest rates, growth and employment alongside FX rates, bond yields, commodities and COT positioning.
+- **Research economic events.** Combine macro history and release calendars, and review publication timing and revision information when constructing a backtest.
+- **Bring evidence into AI workflows.** Give compatible assistants access to economic data through MCP, then follow the source links behind their analysis.
+- **Use the tools you already know.** Query in SQL, extract into a warehouse, write a Python notebook or work inside a research terminal.
 
-## Integrations
+[Explore the platform](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) · [Data coverage](https://fxmacrodata.com/data-coverage?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) · [API documentation](https://fxmacrodata.com/documentation/reference?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) · [Get started](https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme)
 
-### Extensions and plugins
+## Find FXMacroData in your tools
 
-Query economic data, build ingestion workflows and bring macro research into terminals and AI agents.
+Available through these platforms' external extension and plugin catalogues.
 
-<p>
-  <a href="https://duckdb.org/community_extensions/extensions/fxmacrodata.html"><img src="https://avatars.githubusercontent.com/u/82039556?v=4" width="36" height="36" alt="DuckDB" title="DuckDB"></a>&nbsp;
-  <a href="https://github.com/NousResearch/hermes-agent/blob/main/plugin-catalog/fxmacrodata.yaml"><img src="https://avatars.githubusercontent.com/u/134168893?v=4" width="36" height="36" alt="Hermes / Nous Research" title="Hermes"></a>&nbsp;
-  <a href="https://hub.meltano.com/extractors/tap-fxmacrodata/"><img src="https://avatars.githubusercontent.com/u/43816713?v=4" width="36" height="36" alt="Meltano" title="Singer / Meltano"></a>&nbsp;
-  <a href="https://github.com/fxmacrodata/gloomberb-fxmacrodata"><img src="https://avatars.githubusercontent.com/u/312960844?v=4" width="36" height="36" alt="Gloomberb" title="Gloomberb"></a>
-</p>
-
-| Platform | What it brings to the workflow | Explore |
+| Platform | Research workflow | Listing and source |
 | --- | --- | --- |
-| **DuckDB** | Macro history, observations and release calendars as SQL tables. | [Community Extension](https://duckdb.org/community_extensions/extensions/fxmacrodata.html) · [Source](https://github.com/fxmacrodata/duckdb-fxmacrodata) |
-| **Hermes** | Macro research tools, source citations and a USD briefing command. | [Plugin catalogue](https://github.com/NousResearch/hermes-agent/blob/main/plugin-catalog/fxmacrodata.yaml) · [Source](https://github.com/fxmacrodata/hermes-fxmacrodata) |
-| **Singer / Meltano** | Extract macro releases, calendars, indicator metadata and FX reference rates into data pipelines. | [Meltano Hub](https://hub.meltano.com/extractors/tap-fxmacrodata/) · [Source](https://github.com/fxmacrodata/tap-fxmacrodata) |
-| **Gloomberb** | Macro research panes, charts and commands inside a financial terminal. | [Plugin registry](https://plugins.gloom.sh/registry.json) · [Source](https://github.com/fxmacrodata/gloomberb-fxmacrodata) |
+| <img src="https://avatars.githubusercontent.com/u/82039556?v=4&amp;s=120" width="44" alt="DuckDB"><br>**DuckDB** | Query macro observations, indicator history and release calendars directly in SQL. | [DuckDB Community Extension](https://duckdb.org/community_extensions/extensions/fxmacrodata.html) · [Repository](https://github.com/fxmacrodata/duckdb-fxmacrodata) |
+| <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/banner.png" width="130" alt="Hermes"><br>**Hermes** | Bring source-linked macro tools and a USD briefing command into a research agent. | [Hermes plugin catalogue](https://github.com/NousResearch/hermes-agent/blob/main/plugin-catalog/fxmacrodata.yaml) · [Repository](https://github.com/fxmacrodata/hermes-fxmacrodata) |
+| <img src="https://avatars.githubusercontent.com/u/43816713?v=4&amp;s=120" width="44" alt="Meltano"><br>**Singer / Meltano** | Extract economic releases, calendars, indicator metadata and FX reference rates into data pipelines. | [Meltano Hub](https://hub.meltano.com/extractors/tap-fxmacrodata/) · [Repository](https://github.com/fxmacrodata/tap-fxmacrodata) |
 
-### Merged upstream contributions
+## Research and engineering
 
-| Project | Contribution | Accepted change |
-| --- | --- | --- |
-| **Daily Stock Analysis** | Native macroeconomic tools for stock reports, chat agents and portfolio workflows. | [Merged contribution](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2336) |
-| **OpenTerminalUI** | Economic Terminal integration with releases, calendars, source metadata and a Data Explorer. | [Merged contribution](https://github.com/Hitheshkaranth/OpenTerminalUI/pull/3) |
-| **Fast Trade** | REST client, macro context helper and MCP tool. | [Merged contribution](https://github.com/jrmeier/fast-trade/pull/30) |
-| **Pinkfish** | Daily FX time series with the framework's fetcher and cache. | [Merged contribution](https://github.com/fja05680/pinkfish/pull/100) |
-| **PyEventBT** | Release-calendar connector for event filters in backtests. | [Merged contribution](https://github.com/marticastany/pyeventbt/pull/22) |
-| **Midas** | Macro release-calendar helper for quantitative research. | [Merged contribution](https://github.com/Billy1900/Midas/pull/2) |
-| **Directional Scalper** | Macro release-calendar helper for trading workflows. | [Merged contribution](https://github.com/donewiththedollar/directionalscalper/pull/140) |
-| **Claude Trading Skills** | Economic calendar skill with English and Japanese documentation. | [Merged contribution](https://github.com/tradermonty/claude-trading-skills/pull/231) |
-| **Roboquant** | Kotlin example for working with the macro release calendar. | [Merged contribution](https://github.com/neurallayer/roboquant/pull/103) |
-| **Ooples StockIndicators** | .NET example loading daily FX data and calculating a simple moving average. | [Merged contribution](https://github.com/Ooples-Finance-LLC/OoplesFinance.StockIndicators/pull/136) |
+Practical guides to turning economic data into transparent models, reproducible analysis and working applications.
 
-## Selected research and engineering articles
+- [**Point-in-Time Macro Backtesting**](https://fxmacrodata.com/articles/point-in-time-macro-backtesting?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) — Account for publication timing and revisions when studying FX events.
+- [**Build an FX Macro Model**](https://fxmacrodata.com/articles/how-to-build-fx-macro-model-with-fxmacrodata?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) — Turn economic indicators into transparent currency scorecards.
+- [**Build a Macro Dashboard with pandas and Plotly**](https://fxmacrodata.com/articles/how-to-build-macro-dashboard-python-pandas?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) — Take a research question from data retrieval to interactive analysis.
+- [**Use Python Backtesting Frameworks with FXMacroData**](https://fxmacrodata.com/articles/how-to-use-python-backtesting-frameworks-with-fxmacrodata?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) — Add macro-event context to Backtrader, vectorbt and backtesting.py workflows.
+- [**Receive Webhooks with Cloudflare Workers**](https://fxmacrodata.com/articles/how-to-receive-fxmacrodata-webhooks-with-cloudflare-workers?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) — Build a receiver with signature verification, idempotent storage and delivery recovery.
 
-- [**Point-in-Time Macro Backtesting: Keeping Look-Ahead Bias Out of FX Event Studies**](https://fxmacrodata.com/articles/point-in-time-macro-backtesting?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) — Publication timing, revisions and the information available at each decision point.
-- [**How to Build an FX Macro Model with FXMacroData**](https://fxmacrodata.com/articles/how-to-build-fx-macro-model-with-fxmacrodata?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) — Turn economic releases into transparent currency scorecards.
-- [**How to Build a Macro Dashboard in Python with pandas & Plotly**](https://fxmacrodata.com/articles/how-to-build-macro-dashboard-python-pandas?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) — From data retrieval to interactive visual analysis.
-- [**How to Use Python Backtesting Frameworks with FXMacroData**](https://fxmacrodata.com/articles/how-to-use-python-backtesting-frameworks-with-fxmacrodata?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) — Macro-event workflows for Backtrader, vectorbt and backtesting.py.
-- [**How to Receive FXMacroData Webhooks with Cloudflare Workers**](https://fxmacrodata.com/articles/how-to-receive-fxmacrodata-webhooks-with-cloudflare-workers?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) — Signature verification, idempotent storage and delivery recovery.
+[Explore the research library](https://fxmacrodata.com/articles?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme)
 
-[Browse the research library](https://fxmacrodata.com/articles?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme)
+## Developer resources
 
-## Build with FXMacroData
+[Python SDK](https://github.com/fxmacrodata/fxmacrodata) · [MCP server](https://github.com/fxmacrodata/mcp-server-fxmacrodata) · [Example applications](https://github.com/fxmacrodata/examples) · [Open datasets](https://github.com/fxmacrodata/fxmacrodata-datasets)
 
-[Python SDK](https://github.com/fxmacrodata/fxmacrodata) · [OCaml package](https://opam.ocaml.org/packages/fxmacrodata/) · [MCP connector](https://github.com/fxmacrodata/mcp-server-fxmacrodata) · [Example applications](https://github.com/fxmacrodata/examples) · [Open datasets](https://github.com/fxmacrodata/fxmacrodata-datasets)
+[Python quickstart](https://fxmacrodata.com/documentation/quickstart?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) · [REST API reference](https://fxmacrodata.com/documentation/reference?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) · [Connect an AI assistant](https://fxmacrodata.com/documentation/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme)
 
-[API reference](https://fxmacrodata.com/documentation/reference?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme) · [MCP documentation](https://fxmacrodata.com/documentation/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=personal-profile&utm_content=readme)
-
-For data access, integration questions and commercial use: [info@fxmacrodata.com](mailto:info@fxmacrodata.com).
+For integration support, data access and commercial enquiries: **[info@fxmacrodata.com](mailto:info@fxmacrodata.com)**.
